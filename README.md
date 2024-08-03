@@ -1,4 +1,3 @@
-# LASTERSANS.LOL
+Hosted at
 
-Now
-https://conceitedengineering.github.io/LASTERSANS.LOL/
+https://lastersans.xyz/
